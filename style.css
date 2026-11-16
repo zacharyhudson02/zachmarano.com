@@ -39,7 +39,7 @@ ul.entries { list-style: none; padding: 0; margin: 0; }
 ul.entries li { margin-bottom: 16px; }
 .meta { display: block; font-size: 0.8rem; color: #666; }
 
-.headshot { display: block; width: 160px; height: 160px; object-fit: cover; margin-bottom: 32px; }
+.headshot { display: block; width: 160px; height: 160px; border-radius: 6px; object-fit: cover; margin-bottom: 32px; }
 
 article p { margin: 0 0 1.3em; }
 article .byline { color: #666; font-size: 0.875rem; margin-bottom: 32px; }
